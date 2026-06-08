@@ -1,0 +1,16 @@
+[Desktops]
+Id_1=90933497-90ff-4083-8ad7-5db1ef0da66c
+Number=1
+Rows=1
+
+[Tiling][90933497-90ff-4083-8ad7-5db1ef0da66c][26b5d955-8fce-40b4-8670-9b6017f86b7f]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Windows_HDR]
+MaxFrameAverage=0
+MaxLuminance=617
+Reference=290
+
+[Xwayland]
+Scale=1.55

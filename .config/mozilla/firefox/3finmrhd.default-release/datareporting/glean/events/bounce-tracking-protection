@@ -1,0 +1,5 @@
+{"timestamp":6105860,"category":"bounce.tracking.protection","name":"purge_action","extra":{"glean_timestamp":"1780935807443","success":"true","is_dry_run":"true","site_host":"extensions.org","bounce_time":"1780874759"}}
+{"timestamp":6105860,"category":"bounce.tracking.protection","name":"purge_action","extra":{"is_dry_run":"true","glean_timestamp":"1780935807443","success":"true","site_host":"google.ca","bounce_time":"1780929861"}}
+{"timestamp":6105860,"category":"bounce.tracking.protection","name":"purge_action","extra":{"glean_timestamp":"1780935807443","success":"true","bounce_time":"1780882700","is_dry_run":"true","site_host":"vscode.dev"}}
+{"timestamp":9704641,"category":"bounce.tracking.protection","name":"purge_action","extra":{"bounce_time":"1780934202","is_dry_run":"true","glean_timestamp":"1780939406223","site_host":"discordapp.com","success":"true"}}
+{"timestamp":30924,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2026-06-08T12:09-06:00","glean_timestamp":"1780942173724"},"execution_counter":1}

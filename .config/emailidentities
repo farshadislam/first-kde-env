@@ -1,0 +1,13 @@
+[General]
+Default Identity=902633271
+
+[Identity #0]
+Default Domain=swagtop-remastered
+Disable Fcc=false
+Disable Spam=false
+Identity=Unnamed
+Image Location=
+Inline Signature=
+Override Encryption Defaults=false
+Signature Enabled=false
+uoid=902633271

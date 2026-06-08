@@ -1,0 +1,10 @@
+[Libinput][1267][12933][ASUE1412:00 04F3:3285 Mouse]
+NaturalScroll=false
+
+[Libinput][1267][12933][ASUE1412:00 04F3:3285 Touchpad]
+NaturalScroll=true
+PointerAcceleration=0.200
+ScrollFactor=1.5
+
+[Mouse]
+cursorTheme=Simp1e-Gruvbox-Dark
